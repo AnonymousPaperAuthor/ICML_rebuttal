@@ -1,2 +1,2 @@
 # ICML_rebuttal
-![asda](/assets/images/line_plots.png)
+![asda](/../main/assets/images/line_plots.png)
