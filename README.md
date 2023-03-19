@@ -1,2 +1,3 @@
-# ICML_rebuttal
-![asda](line_plots.png)
+# Sparse kernel ICML rebuttal
+
+This is an anonymous page for sharing plots/tables/figures with our reviewers.
